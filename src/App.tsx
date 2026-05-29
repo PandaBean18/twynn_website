@@ -6,7 +6,6 @@ import { ForBrands } from './sections/ForBrands';
 import { ForCreators } from './sections/ForCreators';
 import { Features } from './sections/Features';
 import { HowItWorks } from './sections/HowItWorks';
-import { WhoItIsFor } from './sections/WhoItIsFor';
 import { WhyTwynn } from './sections/WhyThreeC';
 import { GlobalMission } from './sections/GlobalMission';
 import { Waitlist } from './sections/Waitlist';
